@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Chaitanya!
+💻 Flutter & React Developer  
+🚀 Building modern apps with Firebase & Node.js  
 
-<!--
-**DarkWizardCK-24/DarkWizardCK-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 Skills
+- Flutter (Firebase, REST APIs, Bloc, Provider)
+- React.js & Node.js
+- UI/UX + Animation
 
-Here are some ideas to get you started:
+## 🌱 Currently Working On
+- Split Bill App (Flutter + Firebase)
+- Internship Showcase Platform (Next.js + Node.js)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
