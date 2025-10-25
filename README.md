@@ -1,3 +1,9 @@
+<!-- Cover Banner -->
+<p align="center">
+  <img src="https://github.com/DarkWizardCK-24/DarkWizardCK-24/blob/main/assets/dark_wizard_banner.png" alt="Dark Wizard Banner" width="100%">
+</p>
+
+
 <div align="center">
   <h1>👋 Hey, I'm Chaitanya Katare! 🚀</h1>
   <p><strong>Full-Stack Developer | Mobile App Enthusiast | Web App Developer</strong></p>
