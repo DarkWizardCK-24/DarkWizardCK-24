@@ -12,6 +12,13 @@ I'm a versatile developer with a knack for crafting seamless web and mobile appl
 
 - 💼 **Roles**: Full-Stack Developer, Mobile App Developer, [Other Roles, e.g., Freelancer, Open-Source Contributor]
 - 🌍 **Location**: [Mumbai, India]
+- 🕵️‍♂️ **Alias**: **DarkWizardCK-24**
+
+---
+
+## 💫 Motto
+
+“Code it simple, make it powerful, and let creativity do the talking.”
 
 ---
 
