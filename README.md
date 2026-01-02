@@ -1,6 +1,6 @@
 <!-- Cover Banner -->
 <p align="center">
-  <img src="https://github.com/DarkWizardCK-24/DarkWizardCK-24/blob/main/assets/dark_wizard_banner.png" alt="Dark Wizard Banner" width="100%">
+  <img src="https://github.com/DarkWizardCK-24/DarkWizardCK-24/blob/main/assets/dark_wizard.png" alt="Dark Wizard Banner" width="100%">
 </p>
 
 
