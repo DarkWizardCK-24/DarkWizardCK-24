@@ -57,19 +57,22 @@ Here’s what I wield to build awesome projects:
 
 ---
 
-## 📈 My GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarkWizardCK-24&show_icons=true&theme=dracula&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkWizardCK-24&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="180"/>
+### 🧙‍♂️ Dark Wizard’s Realm
+
+<p>
+  Crafting powerful apps with clean code, scalable architecture,  
+  and a touch of wizardry ✨
 </p>
 
 
----
+<img src="https://img.shields.io/badge/Code%20With%20Magic-%F0%9F%94%AE-purple?style=for-the-badge" />
 
-<div align="center">
-  <p><strong>Thanks for stopping by! Let’s build something amazing together! 🚀</strong></p>
-  <img src="https://img.shields.io/badge/Code%20With%20Passion-%F0%9F%92%95-red" alt="Code With Passion">
+<p>
+  <strong>“Write code like spells — precise, powerful, and timeless.”</strong>
+</p>
+
 </div>
 
 
