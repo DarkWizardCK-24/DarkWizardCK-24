@@ -93,8 +93,4 @@
 
 Linux · DevOps (CI/CD, containers) · Python fundamentals
 
-## 📫 Get in touch
-
-Best way to reach me is [LinkedIn](https://www.linkedin.com/in/chaitanya-katare-3b765b281) or through my [portfolio](https://byte-folio.vercel.app).
-
 <p align="center"><i>Code it simple, make it powerful, and let creativity do the talking.</i></p>
