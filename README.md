@@ -1,8 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/dark_wizard_banner_v2.png" alt="Dark Wizard banner" width="100%">
+  <img src="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/dark_wizard_banner_v3.png" alt="Dark Wizard banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Chaitanya Katare 👋</h1>
+
+<p align="center">
+  <a href="https://byte-folio.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=1E96FC&center=true&vCenter=true&width=640&height=40&lines=Flutter+%C2%B7+Next.js+%C2%B7+FastAPI;Shipping+apps+to+Google+Play;Open+to+full-time+roles" alt="Typing animation" /></a>
+</p>
 
 <p align="center">
   <b>Flutter &amp; Full-Stack Developer</b> · Navi Mumbai, India<br/>
@@ -13,6 +17,7 @@
   <a href="https://byte-folio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-byte--folio.vercel.app-0f172a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/chaitanya-katare-3b765b281"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://linktr.ee/DarkWizard_CK"><img src="https://img.shields.io/badge/Linktree-All%20links-43E55E?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+  <a href="mailto:chaitanyask103@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -22,6 +27,15 @@
 - 📱 **Software Developer at Aainova**: building and running cross-platform Flutter apps, Next.js web apps, FastAPI services and the admin panels behind them.
 - 🚀 **Live on Google Play**: Hommigo, Aptam and Doc Scanner, plus the Quotation System web app.
 - 🎯 Open to full-time Flutter and full-stack roles.
+
+## 🚀 Live in production
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hommigo-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aptam-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
+  <img src="https://img.shields.io/badge/Doc%20Scanner-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quotation%20System-Web%20App-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</p>
 
 ## 🛠️ Tech stack
 
@@ -88,6 +102,12 @@
     </td>
   </tr>
 </table>
+
+## 📊 Languages across my repos
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DarkWizardCK-24&theme=tokyonight" alt="Repos per language" />
+</p>
 
 ## 🌱 Currently learning
 
