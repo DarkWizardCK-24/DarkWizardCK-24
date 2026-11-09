@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/blocks/hero-dark.png">
-  <img src="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/blocks/hero-light.png" alt="Chaitanya Katare, Flutter, iOS and Full-Stack Developer" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/blocks/hero2-dark.png">
+  <img src="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/blocks/hero2-light.png" alt="Chaitanya Katare, Flutter, iOS and Full-Stack Developer" width="100%">
 </picture>
 
 <p align="center">
@@ -11,8 +11,8 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/blocks/metrics-dark.png">
-  <img src="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/blocks/metrics-light.png" alt="4 live products, 2 app stores, 5 engineering roles, end-to-end ownership" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/blocks/metrics2-dark.png">
+  <img src="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/blocks/metrics2-light.png" alt="5 live products, 2 app stores, 5 engineering roles, end-to-end ownership" width="100%">
 </picture>
 
 <picture>
@@ -23,11 +23,12 @@
 ## Live in production
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hommigo-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aptam-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
+  <a href="https://play.google.com/store/apps/details?id=com.hommigo.app"><img src="https://img.shields.io/badge/Hommigo-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.aptam.education"><img src="https://img.shields.io/badge/Aptam-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
   <a href="https://apps.apple.com/in/app/aptam-live-classes-tutors/id6819706008"><img src="https://img.shields.io/badge/Aptam-App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Doc%20Scanner-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
-  <img src="https://img.shields.io/badge/Quotation%20System-Web%20App-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="https://play.google.com/store/apps/details?id=com.aidocscanner"><img src="https://img.shields.io/badge/AI%20DocScanner-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.atulmore.ai_cleaner"><img src="https://img.shields.io/badge/AI%20Cleaner-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
+  <a href="https://aesteiron.aainova.com/en/login"><img src="https://img.shields.io/badge/Quotation%20System-Web%20App-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 ## Featured projects
