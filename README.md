@@ -58,50 +58,35 @@
 
 ## ✨ Featured projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/DarkWizardCK-24/LedgerLine"><img src="https://raw.githubusercontent.com/DarkWizardCK-24/ByteFolio/main/public/projects/web/ledgerline/dashboard-desktop.png" alt="LedgerLine" /></a>
-      <h3><a href="https://github.com/DarkWizardCK-24/LedgerLine">LedgerLine</a> · <a href="https://ledgerline-alpha-five.vercel.app">Live</a></h3>
-      Double-entry accounting for small businesses: journal, ledger, GST, reconciliation and reports.<br/>
-      <sub>Next.js · FastAPI · Supabase</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/DarkWizardCK-24/VaultSpark"><img src="https://raw.githubusercontent.com/DarkWizardCK-24/ByteFolio/main/public/projects/web/vaultspark/desktop-vault.png" alt="VaultSpark" /></a>
-      <h3><a href="https://github.com/DarkWizardCK-24/VaultSpark">VaultSpark</a> · <a href="https://vault-spark.vercel.app">Live</a></h3>
-      Zero-knowledge password manager. Everything is encrypted on your device.<br/>
-      <sub>Next.js · Firebase · Web Crypto</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/DarkWizardCK-24/DevHub"><img src="https://raw.githubusercontent.com/DarkWizardCK-24/ByteFolio/main/public/projects/web/devhub/dashboard-dark.png" alt="DevHub" /></a>
-      <h3><a href="https://github.com/DarkWizardCK-24/DevHub">DevHub</a> · <a href="https://dev-hub-one-opal.vercel.app">Live</a></h3>
-      Developer workspace with Kanban, Markdown notes, encrypted vault and an admin audit log.<br/>
-      <sub>Next.js · FastAPI · Supabase</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/DarkWizardCK-24/Prism-Link"><img src="https://raw.githubusercontent.com/DarkWizardCK-24/ByteFolio/main/public/projects/web/prism-link/desktop-dashboard.png" alt="Prism Link" /></a>
-      <h3><a href="https://github.com/DarkWizardCK-24/Prism-Link">Prism Link</a> · <a href="https://prism-link.vercel.app">Live</a></h3>
-      Link-in-bio platform with drag-and-drop, themes, QR sharing and live analytics.<br/>
-      <sub>Next.js · Firebase · Framer Motion</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/DarkWizardCK-24/Ledgerly"><img src="https://raw.githubusercontent.com/DarkWizardCK-24/ByteFolio/main/public/projects/flutter/ledgerly/dashboard-desktop.png" alt="Ledgerly" /></a>
-      <h3><a href="https://github.com/DarkWizardCK-24/Ledgerly">Ledgerly</a></h3>
-      Multi-ledger cash book in Flutter for Android, iOS, Windows and Web.<br/>
-      <sub>Flutter · Riverpod · FastAPI · Supabase</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/DarkWizardCK-24/Lumora"><img src="https://raw.githubusercontent.com/DarkWizardCK-24/ByteFolio/main/public/projects/flutter/lumora/desktop-dashboard.png" alt="Lumora" /></a>
-      <h3><a href="https://github.com/DarkWizardCK-24/Lumora">Lumora</a></h3>
-      Offline-first learning tracker with streak heatmap, goals and Firebase sync.<br/>
-      <sub>Flutter · SQLite · Firebase</sub>
-    </td>
-  </tr>
-</table>
+<p align="center"><sub>Click a card to open the live demo (web) or the repository (Flutter).</sub></p>
+
+### 🌐 Full-stack web
+
+<p align="center">
+  <a href="https://ledgerline-alpha-five.vercel.app"><img src="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/cards/ledgerline.png" alt="LedgerLine: double-entry accounting for small businesses" width="49%" /></a>
+  <a href="https://vault-spark.vercel.app"><img src="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/cards/vaultspark.png" alt="VaultSpark: zero-knowledge password manager" width="49%" /></a>
+</p>
+<p align="center">
+  <a href="https://dev-hub-one-opal.vercel.app"><img src="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/cards/devhub.png" alt="DevHub: a developer workspace in one app" width="49%" /></a>
+  <a href="https://prism-link.vercel.app"><img src="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/cards/prismlink.png" alt="Prism Link: link-in-bio platform" width="49%" /></a>
+</p>
+
+### 📱 Flutter (cross-platform)
+
+<p align="center">
+  <a href="https://github.com/DarkWizardCK-24/Ledgerly"><img src="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/cards/ledgerly.png" alt="Ledgerly: multi-ledger cash book" width="49%" /></a>
+  <a href="https://github.com/DarkWizardCK-24/Lumora"><img src="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/cards/lumora.png" alt="Lumora: offline-first learning tracker" width="49%" /></a>
+</p>
+
+<p align="center">
+  <sub><b>Source code:</b>
+  <a href="https://github.com/DarkWizardCK-24/LedgerLine">LedgerLine</a> ·
+  <a href="https://github.com/DarkWizardCK-24/VaultSpark">VaultSpark</a> ·
+  <a href="https://github.com/DarkWizardCK-24/DevHub">DevHub</a> ·
+  <a href="https://github.com/DarkWizardCK-24/Prism-Link">Prism Link</a> ·
+  <a href="https://github.com/DarkWizardCK-24/Ledgerly">Ledgerly</a> ·
+  <a href="https://github.com/DarkWizardCK-24/Lumora">Lumora</a></sub>
+</p>
 
 ## 📊 Languages across my repos
 
