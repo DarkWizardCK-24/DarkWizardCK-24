@@ -96,6 +96,17 @@
 ## GitHub activity
 
 <p align="center">
+  <img src="https://img.shields.io/github/commit-activity/t/DarkWizardCK-24/ByteFolio?style=for-the-badge&label=ByteFolio%20commits&color=2563EB&logo=github" alt="ByteFolio total commits" />
+  <img src="https://img.shields.io/github/commit-activity/t/DarkWizardCK-24/LedgerLine?style=for-the-badge&label=LedgerLine%20commits&color=2563EB&logo=github" alt="LedgerLine total commits" />
+  <img src="https://img.shields.io/github/commit-activity/t/DarkWizardCK-24/DevHub?style=for-the-badge&label=DevHub%20commits&color=2563EB&logo=github" alt="DevHub total commits" />
+  <img src="https://img.shields.io/github/last-commit/DarkWizardCK-24/ByteFolio?style=for-the-badge&label=Last%20commit&color=0D9488&logo=git&logoColor=white" alt="Last commit" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DarkWizardCK-24&theme=tokyonight&hide_border=true" alt="Total contributions, current streak and longest streak" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkWizardCK-24&theme=tokyonight" alt="GitHub profile details and contribution graph" width="100%" />
 </p>
 
