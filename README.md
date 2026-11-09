@@ -1,34 +1,26 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/dark_wizard_banner_v3.png" alt="Dark Wizard banner" width="100%">
-</p>
-
-<h1 align="center">Hi, I'm Chaitanya Katare 👋</h1>
-
-<p align="center">
-  <a href="https://byte-folio.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=1E96FC&center=true&vCenter=true&width=640&height=40&lines=Flutter+%C2%B7+iOS+%C2%B7+Next.js+%C2%B7+FastAPI;Shipping+to+Google+Play+%26+App+Store;Open+to+full-time+roles" alt="Typing animation" /></a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/blocks/hero-dark.png">
+  <img src="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/blocks/hero-light.png" alt="Chaitanya Katare, Flutter, iOS and Full-Stack Developer" width="100%">
+</picture>
 
 <p align="center">
-  <b>Flutter, iOS &amp; Full-Stack Developer</b> · Navi Mumbai, India<br/>
-  I ship production apps to Google Play and the App Store, and build web products with Next.js, FastAPI, Firebase and Supabase.
-</p>
-
-<p align="center">
-  <a href="https://byte-folio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-byte--folio.vercel.app-0f172a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://byte-folio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-byte--folio.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/chaitanya-katare-3b765b281"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://linktr.ee/DarkWizard_CK"><img src="https://img.shields.io/badge/Linktree-All%20links-43E55E?style=for-the-badge&logo=linktree&logoColor=white" /></a>
   <a href="mailto:chaitanyask103@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linktr.ee/DarkWizard_CK"><img src="https://img.shields.io/badge/Linktree-All%20links-43E55E?style=for-the-badge&logo=linktree&logoColor=white" /></a>
 </p>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/blocks/metrics-dark.png">
+  <img src="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/blocks/metrics-light.png" alt="4 live products, 2 app stores, 5 engineering roles, end-to-end ownership" width="100%">
+</picture>
 
-## 💼 What I do
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/blocks/capability-dark.png">
+  <img src="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/blocks/capability-light.png" alt="Built for fintech-grade products: payments, ledgers, reconciliation, security, mobile, APIs" width="100%">
+</picture>
 
-- 📱 **Software Developer at Aainova**: building and running cross-platform Flutter apps, Next.js web apps, FastAPI services and the admin panels behind them.
-- 🚀 **Live on Google Play and the App Store**: Hommigo, Aptam and Doc Scanner, plus the Quotation System web app.
-- 🎯 Open to full-time Flutter, iOS and full-stack roles.
-
-## 🚀 Live in production
+## Live in production
 
 <p align="center">
   <img src="https://img.shields.io/badge/Hommigo-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
@@ -38,7 +30,7 @@
   <img src="https://img.shields.io/badge/Quotation%20System-Web%20App-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </p>
 
-## ✨ Featured projects
+## Featured projects
 
 <p align="center"><sub>Click a card to open the live demo (web) or the repository (Flutter).</sub></p>
 
@@ -70,7 +62,18 @@
   <a href="https://github.com/DarkWizardCK-24/Lumora">Lumora</a></sub>
 </p>
 
-## 🛠️ Tech stack
+## Experience
+
+| Company | Role | Period | What I worked on |
+| :-- | :-- | :-- | :-- |
+| **Aainova** | Software Developer | Jan 2026 to present | Flutter apps on Google Play and the App Store, Next.js web apps, FastAPI services and admin panels |
+| **Prosoft Informatics** | Flutter Developer | May to Sep 2025 | Medical-services app for Android and iOS with Google Maps, Azure Translator and OCR |
+| **LawCrust Global Consultancy** | Web & Flutter Developer Intern | Jan to May 2025 | Razorpay payments, WordPress API and Twilio booking confirmations |
+| **Jio Platforms** | Frontend Developer Intern | Jan to May 2024 | RPOS front-end screens in React.js with REST APIs tested in Postman |
+
+<sub>B.Tech in Electronics & Computer Science, Pillai College of Engineering (University of Mumbai), CGPA 8.5/10.</sub>
+
+## Tech stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -89,13 +92,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## 📈 GitHub in numbers
+## GitHub activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkWizardCK-24&theme=tokyonight" alt="GitHub profile details and contribution graph" width="100%" />
 </p>
 
-## 🧬 Languages
+## Languages
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DarkWizardCK-24&theme=tokyonight" alt="Repositories per language" width="49%" />
@@ -104,8 +107,12 @@
 
 <p align="center"><sub>Dart and TypeScript lead, matching my Flutter and Next.js work, with Python for FastAPI backends.</sub></p>
 
-## 🌱 Currently learning
+## Currently learning
 
 Linux · DevOps (CI/CD, containers) · Python fundamentals
 
 <p align="center"><i>Code it simple, make it powerful, and let creativity do the talking.</i></p>
+
+<p align="center">
+  <a href="https://byte-folio.vercel.app"><img src="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/blocks/cta.png" alt="Let us build something reliable. Open to full-time Flutter, iOS and full-stack roles." width="100%"></a>
+</p>
