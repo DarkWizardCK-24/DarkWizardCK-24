@@ -106,10 +106,6 @@
   <img src="https://streak-stats.demolab.com?user=DarkWizardCK-24&theme=tokyonight&hide_border=true" alt="Total contributions, current streak and longest streak" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkWizardCK-24&theme=tokyonight" alt="GitHub profile details and contribution graph" width="100%" />
-</p>
-
 ## Languages
 
 <p align="center">
