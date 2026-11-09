@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/dark_wizard_banner.png" alt="Dark Wizard banner" width="100%">
+  <img src="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/dark_wizard_banner_v2.png" alt="Dark Wizard banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Chaitanya Katare 👋</h1>
