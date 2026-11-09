@@ -16,8 +16,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/blocks/capability-dark.png">
-  <img src="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/blocks/capability-light.png" alt="Built for fintech-grade products: payments, ledgers, reconciliation, security, mobile, APIs" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/blocks/capability2-dark.png">
+  <img src="https://raw.githubusercontent.com/DarkWizardCK-24/DarkWizardCK-24/main/assets/blocks/capability2-light.png" alt="What I build: mobile apps, web applications, APIs and admin panels, integrations, data reliability, security" width="100%">
 </picture>
 
 ## Live in production
