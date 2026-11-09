@@ -5,12 +5,12 @@
 <h1 align="center">Hi, I'm Chaitanya Katare 👋</h1>
 
 <p align="center">
-  <a href="https://byte-folio.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=1E96FC&center=true&vCenter=true&width=640&height=40&lines=Flutter+%C2%B7+Next.js+%C2%B7+FastAPI;Shipping+apps+to+Google+Play;Open+to+full-time+roles" alt="Typing animation" /></a>
+  <a href="https://byte-folio.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=1E96FC&center=true&vCenter=true&width=640&height=40&lines=Flutter+%C2%B7+iOS+%C2%B7+Next.js+%C2%B7+FastAPI;Shipping+to+Google+Play+%26+App+Store;Open+to+full-time+roles" alt="Typing animation" /></a>
 </p>
 
 <p align="center">
-  <b>Flutter &amp; Full-Stack Developer</b> · Navi Mumbai, India<br/>
-  I ship production apps to Google Play and build web products with Next.js, FastAPI, Firebase and Supabase.
+  <b>Flutter, iOS &amp; Full-Stack Developer</b> · Navi Mumbai, India<br/>
+  I ship production apps to Google Play and the App Store, and build web products with Next.js, FastAPI, Firebase and Supabase.
 </p>
 
 <p align="center">
@@ -25,14 +25,15 @@
 ## 💼 What I do
 
 - 📱 **Software Developer at Aainova**: building and running cross-platform Flutter apps, Next.js web apps, FastAPI services and the admin panels behind them.
-- 🚀 **Live on Google Play**: Hommigo, Aptam and Doc Scanner, plus the Quotation System web app.
-- 🎯 Open to full-time Flutter and full-stack roles.
+- 🚀 **Live on Google Play and the App Store**: Hommigo, Aptam and Doc Scanner, plus the Quotation System web app.
+- 🎯 Open to full-time Flutter, iOS and full-stack roles.
 
 ## 🚀 Live in production
 
 <p align="center">
   <img src="https://img.shields.io/badge/Hommigo-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
   <img src="https://img.shields.io/badge/Aptam-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
+  <a href="https://apps.apple.com/in/app/aptam-live-classes-tutors/id6819706008"><img src="https://img.shields.io/badge/Aptam-App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Doc%20Scanner-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
   <img src="https://img.shields.io/badge/Quotation%20System-Web%20App-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </p>
